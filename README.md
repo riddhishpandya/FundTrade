@@ -2,5 +2,4 @@ presentations
 =============
 
 Presentations and related code
-To get started, please visit: /bit.ly/bb-bypassfpr/
-bit.ly/bb-bypassfpr
+To get started, please visit: https://drive.google.com/drive/folders/0B80QdNUgk7_4NE1yVHp4WWVyQlE
